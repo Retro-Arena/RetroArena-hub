@@ -178,10 +178,16 @@ SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
    SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
   </game>
   <game>
-    <path>./1.5.2 release notes download.png</path>
-    <name>1.5.2 release notes download</name>
-    <image>./1.5.2 release notes download.png</image>
+    <path>./release notes.png</path>
+    <name>release notes</name>
+    <image>./release notes.png</image>
 	<desc>Release Notes (Which we highly encourage you to download as they provide valuable information to include the login credentials.SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
+  </game>
+  <game>
+    <path>./The RA Patreon.png</path>
+    <name>The RA Patreon</name>
+    <image>./The RA Patreon.png</image>
+	<desc>We hope you are enjoying The RA build. Its only possible with our stong community If you are already a patron we thank you.If not please consider supporting this great project.SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
   </game>
   <game>
     <path>./Cinemassacre Plays.png</path>
