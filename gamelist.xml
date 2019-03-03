@@ -157,6 +157,18 @@ SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
 	<desc>  We love video games, TV shows, Movies and all other types of media. Check out our videos and have fun on our channel!
    SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
   </game>
+   <game>
+    <path>./sudo mod website.png</path>
+    <name>SudoMod Website</name>
+    <image>./sudo mod website.png</image>
+	<desc> Sudomod is A community for people who like to make cool stuff using Odroid, Raspberry Pi, Arduino, various single board computers, and retro game consoles</desc>
+  </game>
+   <game>
+    <path>./sudo mod youtube.png</path>
+    <name>SudoMod YouTube</name>
+    <image>./sudo mod youtube.png</image>
+	<desc> Sudomod is A community for people who like to make cool stuff using Odroid, Raspberry Pi, Arduino, various single board computers, and retro game consoles.Here is a link to their YouTube channel.</desc>
+  </game>
   <game>
     <path>./8bitguy.png</path>
     <name>8bitguy</name>
