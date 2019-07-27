@@ -7,6 +7,41 @@
 	<desc>   Herb Fargus is one of the main developers for RetroPie and on this channel from time to time interesting and useful information as well as tutorials are shared.
    SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
   </game>
+   <game>
+    <path>./CuriousMarc.png</path>
+    <name>CuriousMarc</name>
+    <image>./CuriousMarc.png</image>
+	<desc>   Videos documenting restorations of exceptional vintage mechanical calculators and early electronic computers, my Hewlett-Packard test equipment collection and, from time to time, my R2-D2 robot build. It rarely works when I start, but almost always does when I end. A nerdy place for your inner engineer, to celebrate engineering exploits of our predecessors, and learn a lot from it. 
+   SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
+  </game>
+  <game>
+    <path>./Friday Night Arcade.png</path>
+    <name>Friday Night Arcade</name>
+    <image>./Friday Night Arcade.png</image>
+	<desc>  I'm Aaron. I talk about really old video games ranging from Atari 2600, NES, Super NES, Sega Master System, Genesis, TurboGraphx 16 and also old retro gaming hardware. New episodes every other Friday @ 6 AM CT.
+   SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
+  </game>
+   <game>
+    <path>./Retrocore.png</path>
+    <name>Retrocore</name>
+    <image>./Retrocore.png</image>
+	<desc> The Retro Core Channel is home to the original Retro Core game series that started way before the days of You Tube.  These days it's also home to the awesome Battle Of the Ports.  Each week a new show takes a look at a classic arcade game and it's ports across multiple platforms.  It's shocking just how bad or good some ports are.
+   SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
+  </game>
+  <game>
+    <path>./Top Hat Gaming Man.png</path>
+    <name>Top Hat Gaming Man</name>
+    <image>./Top Hat Gaming Man.png</image>
+	<desc> The Top Hat Gaming Man is a Gaming YouTuber who covers over 40 years of gaming history on his channel. He has produced a number of in-depth documentary-style videos on a number of different gaming platforms including consoles which have never seen releases. 
+   SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
+  </game>
+  <game>
+    <path>./RG mech Ex.png</path>
+    <name>RG mech Ex</name>
+    <image>./RG mech Ex.png</image>
+	<desc>   Retro Game Mechanics Explained!
+   SCAN BARCODE WITH YOUR MOBILE DEVICE TO ACCESS LINK.</desc>
+  </game>
   <game>
     <path>./skyscraper git hub.png</path>
     <name>skyscraper git hub</name>
